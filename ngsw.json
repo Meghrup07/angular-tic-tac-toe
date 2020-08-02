@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1596358009425,
+  "index": "https://Meghrup07.github.io/angular-tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://Meghrup07.github.io/angular-tic-tac-toe/favicon.ico",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/index.html",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/main-es2015.8044537e5ebda5426a78.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/main-es5.8044537e5ebda5426a78.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/manifest.webmanifest",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/polyfills-es2015.fd917e7c3ed57f282ee5.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/polyfills-es5.a66861b1a33373a3005d.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/runtime-es2015.24b02acc1f369d9b9f37.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/runtime-es5.24b02acc1f369d9b9f37.js",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/styles.c58c683e510ece3ba4f6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/index.html": "72ca3e70f3f0a0f37c3a6c6e79d4becb206b0b7a",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/main-es2015.8044537e5ebda5426a78.js": "37e4b38e5d60e62cbe346d3aeb4b626b89c07f7f",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/main-es5.8044537e5ebda5426a78.js": "2d7b06bc3880891303360b31ea83deb1e2a3a2d3",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/manifest.webmanifest": "1e50cb1dc74188f4994a39a3f0df3cc0c454dc13",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/polyfills-es2015.fd917e7c3ed57f282ee5.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/polyfills-es5.a66861b1a33373a3005d.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/runtime-es2015.24b02acc1f369d9b9f37.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/runtime-es5.24b02acc1f369d9b9f37.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://Meghrup07.github.io/angular-tic-tac-toe/styles.c58c683e510ece3ba4f6.css": "a26f247df488a3edc8b495d92235b8f066e11dcf"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
